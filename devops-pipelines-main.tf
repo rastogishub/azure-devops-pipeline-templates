@@ -2,7 +2,7 @@
 # Azure DevOps Pipeline Infrastructure
 # Author : Shubham Rastogi
 # Provisions self-hosted agents, storage, and service connections
-# Based on CI/CD pipelines built at Accenture for Unilever
+# Based on experience developing CI/CD pipelines
 # =============================================================
 
 terraform {
